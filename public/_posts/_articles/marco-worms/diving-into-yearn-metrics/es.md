@@ -121,7 +121,7 @@ Ampliación de un informe individual para obtener más información:
 ![](./image16.jpg?w=1157&h=415)
 
 ### **¡Eso es todo amigos de Yearn!**
-¡Espero que este artículo ayude a las personas a extraer buena información sobre sus depósitos en Yearn! Es genial poder acceder a las mismas herramientas que los veteranos que trabajan en estos productos usan para monitorearlos. hHay mucha información valiosa sobre el pasado y el presente de las YVaults y productos de Yearn.
+¡Espero que este artículo ayude a las personas a extraer buena información sobre sus depósitos en Yearn! Es genial poder acceder a las mismas herramientas que los veteranos que trabajan en estos productos usan para monitorearlos. Hay mucha información valiosa sobre el pasado y el presente de las YVaults y productos de Yearn.
 
 Creador: [Worms](https://twitter.com/MarcoWorms), Revisor: [Dark Ghosty](https://github.com/DarkGhost7)
 
